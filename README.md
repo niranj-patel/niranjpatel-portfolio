@@ -1,4 +1,4 @@
-### Check out my website - https://niranj-patel.github.io/
+### Check out my website - https://niranj-patel.github.io/niranjpatel-portfolio/
 Few new interesting things I learnt while developing this portfolio website:
 
 ## Contact Form (No Server-side Code) 
